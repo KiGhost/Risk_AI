@@ -1,0 +1,39 @@
+﻿Der Buildvorgang wurde am 29.01.2016 22:49:34 gestartet.
+     1>Projekt "C:\Users\Sami_NB\Desktop\_CODE\WOW_Risk_KI_Project\WOW_Risk_KI_Project\WOW_Risk_KI_Project.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Programme (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AI.cpp Attack.cpp BattleCalculation.cpp Card.cpp Data.cpp Dice.cpp Faction.cpp GameBoard.cpp Main.cpp Player.cpp Territory.cpp Turn.cpp Unit.cpp
+         Unit.cpp
+         Turn.cpp
+         Territory.cpp
+         Player.cpp
+         Main.cpp
+         GameBoard.cpp
+         Faction.cpp
+         Dice.cpp
+         Data.cpp
+         Card.cpp
+         BattleCalculation.cpp
+         Attack.cpp
+         AI.cpp
+         Code wird generiert...
+     1>c:\users\sami_nb\desktop\_code\wow_risk_ki_project\wow_risk_ki_project\data.cpp(277): warning C4715: "Data::getSpecificTerrSpriteColor": Nicht alle Steuerelementpfade geben einen Wert zurück.
+       Link:
+         D:\Programme (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sami_NB\Desktop\_CODE\WOW_Risk_KI_Project\Debug\WOW_Risk_KI_Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:./lib "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sami_NB\Desktop\_CODE\WOW_Risk_KI_Project\Debug\WOW_Risk_KI_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sami_NB\Desktop\_CODE\WOW_Risk_KI_Project\Debug\WOW_Risk_KI_Project.lib" /MACHINE:X86 Debug\AI.obj
+         Debug\Attack.obj
+         Debug\BattleCalculation.obj
+         Debug\Card.obj
+         Debug\Data.obj
+         Debug\Dice.obj
+         Debug\Faction.obj
+         Debug\GameBoard.obj
+         Debug\Main.obj
+         Debug\Player.obj
+         Debug\Territory.obj
+         Debug\Turn.obj
+         Debug\Unit.obj
+         WOW_Risk_KI_Project.vcxproj -> C:\Users\Sami_NB\Desktop\_CODE\WOW_Risk_KI_Project\Debug\WOW_Risk_KI_Project.exe
+     1>Die Erstellung des Projekts "C:\Users\Sami_NB\Desktop\_CODE\WOW_Risk_KI_Project\WOW_Risk_KI_Project\WOW_Risk_KI_Project.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:26.67
